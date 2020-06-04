@@ -1,0 +1,109 @@
+body{
+	background-color: #212B2D;
+	margin: auto;
+	position: relative;
+	color: #949FA3;
+	
+	margin-top: 1%;
+	width: 700px;
+
+}
+.main-header{
+	
+	background-color: #36555A;
+	color: #BEDCE4;
+	padding-left: 6%;
+	padding-top: 3%;
+	padding-bottom: 11%;
+	
+	border: 1px solid #6C8186;
+
+}
+.main-header h2,h5{
+	margin:0;
+	padding: 0;
+	
+}
+.main-header h2{
+	padding-top: 3%
+}
+.navbar{
+	margin-top: 5px;
+	padding: 1%;
+	background-color: #333D3F;
+	
+}
+.navbar a{
+	text-decoration: none;
+	color: #CFD7DA;
+	padding: 2%;
+}
+.navbar a{
+	padding:0;
+	padding-right: 3%; 
+	padding-left: 2%;
+	border-right: 1px solid #424C4E;
+	
+}
+.block{
+	float: left;
+	width: 19%;
+	margin-right:5.5%;
+}
+.block h3{
+	margin-left: 12%;
+}
+.block ul{
+	padding: 0;
+	margin: 10%;
+}
+.block li{
+	padding:1%; 
+}
+.block a{
+
+	color:#949FA3;
+	
+}
+
+hr{
+	border: 1px solid #424C4E;
+}
+.gso button{
+	background-color: #99ACB3;
+	padding: 2%;
+	border: none;
+}
+.gallery{
+	margin-bottom: 35px;
+}
+.Subscription{
+	float: left;
+	width: 35%;
+	border-right: 2px solid #424C4E;
+	margin-top: 0;
+	padding-top: 0;
+	padding-right: 20px;
+}
+.Subscription h2{
+	margin-top: 0;
+	padding-top: 0;
+}
+.Other{
+	width: 35%;
+	float: left;
+	margin-top: 0;
+	padding-top: 0;
+	padding-left: 15px;
+}
+.Other h2{
+	margin-top: 0;
+	padding-top: 0;
+}
+.footer{
+	float: left;
+	width: 100%;
+	text-align: center;
+	padding-top: 20px;
+
+}
